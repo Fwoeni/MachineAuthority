@@ -82,3 +82,4 @@ civic_Nanobot_Fortification = {
 		country_naval_cap_mult = -0.10
 	}
 }
+#yep
